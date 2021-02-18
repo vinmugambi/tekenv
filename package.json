@@ -7,7 +7,12 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.0.5"
+    "@feathersjs/authentication-client": "^4.5.11",
+    "@feathersjs/feathers": "^4.5.11",
+    "@feathersjs/rest-client": "^4.5.11",
+    "vue": "^3.0.5",
+    "vue-router": "^4.0.3",
+    "vuex": "^4.0.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.1.4",
